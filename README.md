@@ -1,6 +1,5 @@
 # Dependency Inversion Principle (DIP)
 
-*Date: Thursday, June 12, 2025, 5:37 PM +01*
 
 ---
 
